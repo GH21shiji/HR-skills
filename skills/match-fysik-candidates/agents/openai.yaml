@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞捷科思候选人岗位匹配"
+  short_description: "依据公司最新岗位库评估候选人匹配度、职级与初筛结论"
+  default_prompt: "Use $match-fysik-candidates to evaluate this candidate against the company active roles and recommend the best matches."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Liepin Candidate Screening"
+  short_description: "Liepin resume screening rules and safety boundaries"
+  default_prompt: "Use $liepin-candidate-screening to screen Liepin candidates against my hiring criteria."

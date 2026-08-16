@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*
+*secret*
+*credential*
+*candidate*.json
+*collected*.json
+*memory*.json
+__pycache__/
+*.py[cod]
