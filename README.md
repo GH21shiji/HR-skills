@@ -9,6 +9,7 @@
 | `skills/boss-hiring-assistant` | BOSS 直聘的候选人筛选、沟通与约面流程 |
 | `skills/liepin-candidate-screening` | 猎聘候选人筛选，包含上海期望工作地与去重规则 |
 | `skills/match-fysik-candidates` | 将候选人简历与飞捷科思在招岗位进行匹配 |
+| `skills/fysik-recruiting-screening` | 按 JD 全量筛选 BOSS 与猎聘候选人，输出可审计结论 |
 | `skills/lark-offer-record-fill` | 从 Offer 审批中回填多维表格记录 |
 | `skills/lark-base` | 飞书多维表格的读写、字段、视图、表单和工作流操作 |
 | `skills/lark-doc` | 飞书 Docx/Wiki 文档的读取、编辑与资源处理 |
@@ -26,4 +27,3 @@
 ## 安装
 
 将所需技能目录复制到 Codex Skills 目录，或按你的 Codex 环境加载对应的 `SKILL.md`。每个技能目录中都包含独立的使用说明和参考资料。
-

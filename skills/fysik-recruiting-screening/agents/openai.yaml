@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞捷科思招聘候选人筛选"
+  short_description: "BOSS与猎聘候选人全量筛选、去重与证据记录操作流程"
+  default_prompt: "Use $fysik-recruiting-screening to screen candidates for this JD without outreach."
