@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 原生招聘与入职"
+  short_description: "设计招聘需求到入职试用期的数据、自动检查与人工审批流程"
+  default_prompt: "使用 $ai-native-recruiting-onboarding 设计这项岗位从招聘需求到试用期的完整工作流。"

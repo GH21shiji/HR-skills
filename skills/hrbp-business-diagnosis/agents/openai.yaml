@@ -1,0 +1,4 @@
+interface:
+  display_name: "HRBP 业务与组织诊断"
+  short_description: "从业务结果、流程和岗位证据中定位组织、管理与人员问题"
+  default_prompt: "使用 $hrbp-business-diagnosis 诊断这个业务问题，区分流程、组织、管理和人员原因。"

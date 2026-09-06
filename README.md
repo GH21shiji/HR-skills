@@ -1,6 +1,6 @@
 # HR Skills
 
-一组用于招聘筛选与飞书 HR 工作流的 Codex Skills。
+一组用于招聘、组织诊断、人力规划、绩效管理与飞书 HR 工作流的 Codex Skills。
 
 ## 收录内容
 
@@ -12,6 +12,11 @@
 | `skills/lark-offer-record-fill` | 从 Offer 审批中回填多维表格记录 |
 | `skills/lark-base` | 飞书多维表格的读写、字段、视图、表单和工作流操作 |
 | `skills/lark-doc` | 飞书 Docx/Wiki 文档的读取、编辑与资源处理 |
+| `skills/hrd-cold-start` | 新任 HRD/HRBP 的组织尽调、关键风险识别与 30/60/90 天计划 |
+| `skills/hrbp-business-diagnosis` | 从业务结果、流程与岗位证据中定位组织、管理和人员问题 |
+| `skills/workforce-planning-and-cost` | 根据业务计划建立 HC、招聘、离职和人力成本的月度情景模型 |
+| `skills/performance-cycle-calibration` | 设计和运行绩效周期、证据检查、校准会议与结果反馈 |
+| `skills/ai-native-recruiting-onboarding` | 设计招聘需求到入职试用期的数据、自动检查与人工审批流程 |
 
 ## 使用前提
 
@@ -26,4 +31,3 @@
 ## 安装
 
 将所需技能目录复制到 Codex Skills 目录，或按你的 Codex 环境加载对应的 `SKILL.md`。每个技能目录中都包含独立的使用说明和参考资料。
-

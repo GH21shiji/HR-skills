@@ -1,0 +1,4 @@
+interface:
+  display_name: "HRD 冷启动"
+  short_description: "面向新任HRD的组织尽调、关键风险识别与30/60/90天计划"
+  default_prompt: "使用 $hrd-cold-start 分析这个组织现状，并生成有优先级的30/60/90天工作计划。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "绩效周期与校准会议"
+  short_description: "组织半年或年度绩效周期、证据检查、校准会议与结果反馈"
+  default_prompt: "使用 $performance-cycle-calibration 设计本次绩效周期并准备校准会议。"

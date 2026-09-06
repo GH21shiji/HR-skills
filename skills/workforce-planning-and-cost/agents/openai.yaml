@@ -1,0 +1,4 @@
+interface:
+  display_name: "人力规划与成本预测"
+  short_description: "根据业务计划建立HC、人力成本、招聘与离职的月度情景模型"
+  default_prompt: "使用 $workforce-planning-and-cost 根据业务计划建立HC与人力成本预测。"
