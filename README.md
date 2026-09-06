@@ -18,6 +18,10 @@
 | `skills/performance-cycle-calibration` | 设计和运行绩效周期、证据检查、校准会议与结果反馈 |
 | `skills/ai-native-recruiting-onboarding` | 设计招聘需求到入职试用期的数据、自动检查与人工审批流程 |
 
+## 配套文档
+
+- [HRBP 全流程工作实践指南（公开整理版）](docs/hrbp-full-cycle-practice-guide.md)：涵盖业务诊断、年度规划、人力成本、绩效、组织与人才、招聘、入职、职级、薪酬、人才发展、员工沟通、文化和组织诊断。
+
 ## 使用前提
 
 - BOSS 与猎聘技能需要用户已登录对应招聘平台。
