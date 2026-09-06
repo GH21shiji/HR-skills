@@ -21,6 +21,7 @@
 ## 配套文档
 
 - [HRBP 全流程工作实践指南（公开整理版）](docs/hrbp-full-cycle-practice-guide.md)：涵盖业务诊断、年度规划、人力成本、绩效、组织与人才、招聘、入职、职级、薪酬、人才发展、员工沟通、文化和组织诊断。
+- 附件：原文飞书链接：https://my.feishu.cn/docx/TbMmdmMZzoALY9xHq60cGdlonHg?from=from_copylink   密码：619z45&2
 
 ## 使用前提
 
